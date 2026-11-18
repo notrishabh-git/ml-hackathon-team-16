@@ -4,7 +4,8 @@ __pycache__/
 .pytest_cache/
 .streamlit/
 .venv/
-*.html
 /output/
 /Student folder/
 /PathSnap_student_materials/
+*.html
+!evaluator_ui/fixtures/demo_route_map.html
